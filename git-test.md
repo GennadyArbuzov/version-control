@@ -1,4 +1,4 @@
-# ***Work_with_Git*** ![Alt text](git-1.png)
+# ***Work_with_Git*** !![pict](git-1.png)
 
 * >**git init** - создание репозитория в выбранноой папке (создастся скрытая папка .git)
 

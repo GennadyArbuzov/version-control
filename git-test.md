@@ -93,3 +93,5 @@ git status- просмотр текущего состояния ветки
 * >**git branch name<название_ветки>** - _создать ветку_
 
 >>trouble
+
+>>troble- **very bad**

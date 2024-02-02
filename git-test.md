@@ -93,3 +93,5 @@ git status- просмотр текущего состояния ветки
 
 
 >>trouble- is no good
+
+>>troble- ** is very bad**

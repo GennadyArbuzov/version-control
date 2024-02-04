@@ -86,3 +86,6 @@ _Команда merge берет все изменения из ветки и д
 ![pict_git](git-1.png)
 
 >try pull
+
+
+>try push

@@ -89,15 +89,3 @@ git init- инициализация гита
 git status- просмотр текущего состояния ветки
 ## lesson 2 _error_
 
-
-* >**git branch name<название_ветки>** - _создать ветку_
-
->>trouble
-
->>troble- **very bad**
-
-
-
->>trouble- is no good
-
->>troble- ** is very bad**
